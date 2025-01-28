@@ -1,4 +1,8 @@
 # SolderlessVeryLargeNiMhBattery
-Printable 3D models and images showing you how to build a very large NiMh battery pack without any soldering.
+A free, open source, repository for creating safe, large, DIY, batteries that require no soldering.
 
-A free, open source, repository dedicated to safe, large, DIY, batteries that require no soldering to create.
+# Authors
+Carlo Bruscani
+Victor G. Brusca
+
+![alt text](https://github.com/vbrusca/SolderlessVeryLargeNiMhBattery/blob/main/large_aaa_nimh_batt.jpg?raw=true)
