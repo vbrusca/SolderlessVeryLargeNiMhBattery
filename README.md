@@ -17,7 +17,7 @@ This design has many benefits including the following:<br>
 </ul>
 
 # Example
-The following image demonstrates using the AAA connector and cap models to create a 60V (nominal), 60Wh battery pack.
+The following image demonstrates using the AAA connector and cap models to create a 60V (nominal), 60Wh battery pack, out of 50 AAA batteries in series.
 <br>
 
 ![alt text](https://github.com/vbrusca/SolderlessVeryLargeNiMhBattery/blob/main/images/large_aaa_nimh_batt_sm.jpg?raw=true)
