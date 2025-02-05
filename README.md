@@ -1,5 +1,13 @@
 # SolderlessVeryLargeNiMhBattery
 A free, open source, repository with 3D printable models for creating safe, large, DIY, batteries that require no soldering.
+<br>
+<br>
+
+**WARNING: Do not make the mistake of viewing these battery packs as innocuous. It's very easy to dismiss AA or AAA batteries as something inherently safe. I accidentally shorted one of these
+packs for a ms and it vaporized the metal lead and shot a spark a few feet across the room. Now if it was a Li-Ion battery it would probably have exploded at that point. Simply put, make sure there is no metal
+in your build area and make sure all the metal involved with your voltmeter/equipment, is wrapped in protective plastic wrap.
+<br>
+<br>
 
 # Authors
 Carlo Bruscani
