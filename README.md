@@ -1,5 +1,5 @@
 # SolderlessVeryLargeNiMhBattery
-A free, open source, repository for creating safe, large, DIY, batteries that require no soldering.
+A free, open source, repository with 3D printable models for creating safe, large, DIY, batteries that require no soldering.
 
 # Authors
 Carlo Bruscani
