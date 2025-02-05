@@ -17,11 +17,26 @@ This design has many benefits including the following:<br>
 </ul>
 
 # Example
-The following image demonstrates using the AAA connector and cap models to create a 60V (nominal), 66Wh battery pack.
+The following image demonstrates using the AAA connector and cap models to create a 60V (nominal), 60Wh battery pack.
 <br>
 
 ![alt text](https://github.com/vbrusca/SolderlessVeryLargeNiMhBattery/blob/main/images/large_aaa_nimh_batt_sm.jpg?raw=true)
 <br>
 
 The models have been posted for both AAA and AA cells. You'll have to run some test prints to get the right settings for your printer.
+Here are some sample battery packs built using this approach.
+<br>
+
+600Wh at 60V using 200 AA NiMh rechargeable batteries:
+<br>
+![alt text](https://github.com/vbrusca/SolderlessVeryLargeNiMhBattery/blob/main/images/nimh_aa_600Wh_at_60V.jpg?raw=true)
+<br>
+
+360Wh at 60V using 300 AAA NiMh rechargeable batteries:
+<br>
+![alt text](https://github.com/vbrusca/SolderlessVeryLargeNiMhBattery/blob/main/images/nimh_aaa_360Wh_at_60V.jpg?raw=true)
+<br>
+
+
+
 Enjoy!!
