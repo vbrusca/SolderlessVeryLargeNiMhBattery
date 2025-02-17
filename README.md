@@ -46,7 +46,7 @@ Here are some sample battery packs built using this approach.
 <br>
 
 A look at the caps up close. The caps are slotted to aid in the alignment of the zip tie. The zip tie is used to keep a row, in this case 6 NiMh batteries in series, connected together,
-and connected to the next row. I recommend using two leads at the terminals of the battery pack that are not connected to the larger battery structure. This allows you to run checks and tests against each "cell" in the larger pack. It is recommended to use color coded caps that match the polarity of the battery terminal it connects to.
+and connected to the next row. I recommend using two leads at the terminals of the battery pack. One of which that is not connected to the larger battery structure. This allows you to run checks and tests against each "cell" in the larger pack. It is recommended to use color coded caps that match the polarity of the battery terminal it connects to.
 <br>
 ![alt text](https://github.com/vbrusca/SolderlessVeryLargeNiMhBattery/blob/main/images/nimh_caps_up_close.jpg?raw=true)
 <br>
