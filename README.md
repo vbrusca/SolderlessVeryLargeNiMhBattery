@@ -102,10 +102,17 @@ You can easily build very large NiMh batteries this way. Like this nominally 720
 ![alt text](https://github.com/vbrusca/SolderlessVeryLargeNiMhBattery/blob/main/images/nimh_tube_batt/pic10_case_with_voltage_display.jpg?raw=true)
 <br>
 
-This particular setup can be charged with a 10A solar charger controller and 100W panel. You could probably go up to 200W or 250W if you designed your wiring for it. It can power a 300W inverter but I would max usage to 200W at a maximum unless you have specifically wired things to handle 300W which would draw 25 amps from the battery. It also supports a 12V to USB converter for easily powering up USB devices without having to use the inverter.
+This particular setup can be charged with a 10A solar charge controller and 100W panel. You could probably go up to 200W or 250W if you designed your wiring for it. It can power a 300W inverter easily but I would max usage to 200W unless you have specifically wired things to handle 300W, which would draw 25 amps from the battery. It also supports a direct 12V to USB converter for easily powering up USB devices without having to use the inverter.
 <br>
 
-Enjoy!!
+So far using it daily for a few weeks it handles any charge controler I've thrown at it that can working with 12V Lifeo4 or lead acid batteries. It seems to hold a max voltage of 13.7 with a theoretical maximum of 14V. But it can handle a charge voltage up to 14.6V, or so I have read.
+<br>
+
+You can also slow charge it with an NiMh AC charger that supports up to 10 cells in series.
+Although at low current this approach will take a long time to charge the battery. For this purpose there is an XT60 plug wired into the connector bar as well as a voltage display.
+<br>
+
+Enjoy!! Go, build some big batteris and power stuff.
 
 
 # Very Large NiMh Battery Technique: 3D Printed Scaffolding
