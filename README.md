@@ -15,7 +15,100 @@ Carlo Bruscani
 Victor G. Brusca
 <br>
 
-# Benefits
+# Update
+Addition of a new NiMH very large battery creation technique using high temp resistant silicon tubing and 3D printed end caps. This results in a much faster battery build at a slightly higher cost per cell.
+
+# Very Large NiMH Battery Technique: Silicon Tubing and 3D Printed Caps
+This design has many benefits including the following:<br>
+<ul>
+  <li>No soldering required: Increase safety as there are less metals around the workspace to cause a short. Scaffolding adds negligible weight to the battery bank. Known ampacity using tried and true wire guages as opposed to sheets of metal with less known ampacities.</li>
+  <li>Easily scales up: The batteries can be easily altered in ampacity and voltage using the base 6V 2.5Ah cell.</li>
+  <li>NiMh chemistry: NiMh chemistry is non toxic, readily available, less reactive, easier to manage. No thermal runaway!</li>
+</ul>
+
+Known Issues:<br>
+<ul>
+  <li>
+  Potential cooling issues. It is unknow how easily heat can move through the silicon tubing.
+  </li>
+</ul>
+
+To offset the known issue I built a very large battery and set a specific max wattage usage so that the draw on each cell is negligible and there is no real heat generation from the cells.
+
+# Creation Steps
+
+## Step 1
+Get the basic supplies needed to build the base 6V 2.5Ah cell.
+<br>
+
+<ul>
+  <li>1. Heat resistent silicon tubing ID: 16mm, OD: 20mm</li>
+  <li>2. 12 or 14 AWG pure copper stranded wire for connecting the base cells</li>
+  <li>3. Two 3D printed end caps, nimh_tube_batt_cap_1_D_1.stl.</li>
+  <li>4. 5 NiMH rechargable 2500mAh batteries per 6V 2.5Ah cell, 20 for a 6V 10Ah cell.</li>
+  <li>5. Thin zip tie about 5 to 8 inches long.</li>
+</ul>
+
+![alt text](https://github.com/vbrusca/SolderlessVeryLargeNiMhBattery/blob/main/images/nimh_tube_batt/pic1_basic_supplies.jpg?raw=true)
+<br>
+
+## Step 2
+Cut the silicon tube to about 10.75 inches. Fill the tube with 5 NiMH rechargable AA batteries in series for 6V. To make a 12V cell do this twice.
+
+![alt text](https://github.com/vbrusca/SolderlessVeryLargeNiMhBattery/blob/main/images/nimh_tube_batt/pic2_silicon_tube_16mmID_20mmOD_10_nimh_batt.jpg?raw=true)
+<br>
+
+## Step 3
+Prepare the wired caps with the wire curled inside for the positive terminal and the wired curled around the edge of the cap for the negative terminal.
+<br>
+
+![alt text](https://github.com/vbrusca/SolderlessVeryLargeNiMhBattery/blob/main/images/nimh_tube_batt/pic3_wired_caps_for_joining_cells.jpg?raw=true)
+<br>
+
+## Step 4
+Use the zip tie to secure the cap to the end of the tube. Make sure to use the cap setup for the negative terminal on the negative terminal and positve on positive. If the cap slips after completing the other end use a second zip tie to secure it further.
+<br>
+
+![alt text](https://github.com/vbrusca/SolderlessVeryLargeNiMhBattery/blob/main/images/nimh_tube_batt/pic4_use_of_zip_ties.jpg?raw=true)
+<br>
+
+## Step 5
+Complete one 6V 2.5Ah cell.
+<br>
+
+![alt text](https://github.com/vbrusca/SolderlessVeryLargeNiMhBattery/blob/main/images/nimh_tube_batt/pic5_one_complete_cell.jpg?raw=true)
+<br>
+
+![alt text](https://github.com/vbrusca/SolderlessVeryLargeNiMhBattery/blob/main/images/nimh_tube_batt/pic6_close_up_of_end.jpg?raw=true)
+<br>
+
+![alt text](https://github.com/vbrusca/SolderlessVeryLargeNiMhBattery/blob/main/images/nimh_tube_batt/pic7_voltage_of one_cell.jpg?raw=true)
+<br>
+
+## Step 6
+Join 2 cells into one 12v 2.5Ah cell.
+<br>
+
+![alt text](https://github.com/vbrusca/SolderlessVeryLargeNiMhBattery/blob/main/images/nimh_tube_batt/pic8_voltage_after_joining.jpg?raw=true)
+<br>
+
+## Conclusion
+You can easily build very large NiMH batteries this way. Like this nominally 720Wh 12V, 60AH.
+<br>
+
+![alt text](https://github.com/vbrusca/SolderlessVeryLargeNiMhBattery/blob/main/images/nimh_tube_batt/pic9_720WH_nominal_with_300W_inverter_and_solar_charger.jpg?raw=true)
+<br>
+
+![alt text](https://github.com/vbrusca/SolderlessVeryLargeNiMhBattery/blob/main/images/nimh_tube_batt/pic10_case_with_voltage_display.jpg?raw=true)
+<br>
+
+This particular setup can be charged with a 10A solar charger controller and 100W panel. You could probably go up to 200W or 250W if you designed your wiring for it. It can power a 300W inverter but I would max usage to 200W at a maximum unless you have specifically wired things to handle 300W which would draw 25 amps from the battery. It also supports a 12V to USB converter for easily powering up USB devices without having to use the inverter.
+<br>
+
+Enjoy!!
+
+
+# Very Large NiMH Battery Technique: 3D Printed Scaffolding
 This design has many benefits including the following:<br>
 <ul>
   <li>No soldering required: Increase safety as there are less metals around the workspace to cause a short. Lighter overall weight due to plastic scaffolding. Known ampacity using tried and true wire guages as opposed to sheets of metal with less known ampacities.</li>
