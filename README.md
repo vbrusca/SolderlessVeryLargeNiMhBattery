@@ -93,7 +93,7 @@ Join 2 cells into one 12v 2.5Ah cell.
 <br>
 
 ## Conclusion
-You can easily build very large NiMh batteries this way. Like this nominally 720Wh 12V, 60AH battery.
+You can easily build very large NiMh batteries this way. Like this nominally 720Wh 12V, 60AH battery built from 250 NiMh AA battery cells.
 <br>
 
 ![alt text](https://github.com/vbrusca/SolderlessVeryLargeNiMhBattery/blob/main/images/nimh_tube_batt/pic9_720WH_nominal_with_300W_inverter_and_solar_charger.jpg?raw=true)
